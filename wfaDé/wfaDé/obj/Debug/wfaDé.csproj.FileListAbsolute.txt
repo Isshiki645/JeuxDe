@@ -1,0 +1,11 @@
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\bin\Debug\wfaDé.exe.config
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\bin\Debug\wfaDé.exe
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\bin\Debug\wfaDé.pdb
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\obj\Debug\wfaDé.csproj.AssemblyReference.cache
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\obj\Debug\wfaDé.csproj.SuggestedBindingRedirects.cache
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\obj\Debug\wfaDé.Form1.resources
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\obj\Debug\wfaDé.Properties.Resources.resources
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\obj\Debug\wfaDé.csproj.GenerateResource.cache
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\obj\Debug\wfaDé.csproj.CoreCompileInputs.cache
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\obj\Debug\wfaDé.exe
+D:\Jean-Nicolas\École\Cégep\Année 2\Session 3\P O 2\wfaDé\wfaDé\obj\Debug\wfaDé.pdb
